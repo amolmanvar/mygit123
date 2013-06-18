@@ -2,6 +2,6 @@
 #include<conio.h>
 int main()
 {
-printf("hello");
+printf("hello amol");
 return 0;
 }
