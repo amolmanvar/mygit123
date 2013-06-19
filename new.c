@@ -13,4 +13,5 @@ print "hi wassup";
 print "hello";
 >>>>>>> 621b20ebcf935d19bbe21c645b0382ac54570ead
 return 0;
+print "conflict";
 }
