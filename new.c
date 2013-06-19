@@ -19,4 +19,6 @@ print "conflict 2";
 print "merge from greet branch"
 print "merging";
 print
+print
+hello
 }
