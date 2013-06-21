@@ -15,6 +15,7 @@ print "hello";
 return 0;
 print "conflict";
 print "conflict1";
+print "why";
 print "conflict 2";
 print "merge from greet branch"
 print "merging";
