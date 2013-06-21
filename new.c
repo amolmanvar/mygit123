@@ -14,6 +14,7 @@ print "hello";
 >>>>>>> 621b20ebcf935d19bbe21c645b0382ac54570ead
 return 0;
 print "conflict";
+print "ok"
 print "conflict1";
 print "done";
 print "conflict 2";
